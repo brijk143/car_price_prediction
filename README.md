@@ -1,4 +1,4 @@
-# Car Price Prediction Project
+# CarWorth: Intelligent Vehicle Pricing
 
 This project predicts the prices of used cars based on a dataset containing various car attributes. The primary components of this project include a Jupyter Notebook (`car_price_predictor.ipynb`), a raw dataset (`quikr_car.csv`), and a cleaned dataset (`Cleaned car.csv`).
 
